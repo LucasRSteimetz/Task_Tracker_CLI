@@ -7,8 +7,8 @@ This a simple task tracker CLI application developed using JS and Node.
 ## Dependencies
 
 To run Task Tracker 8000, you only need to install npm and node.
-Go to "https://nodejs.org" and install the LTS version.
-To check if you've installed it, run the following commands on the terminal:
+Go to https://nodejs.org and install the LTS version.
+To check if you've installed it, run the following commands in the terminal:
 
 ```bash
 nove -v
