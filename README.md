@@ -11,7 +11,7 @@ Go to https://nodejs.org and install the LTS version.
 To check if you've installed it, run the following commands in the terminal:
 
 ```bash
-nove -v
+node -v
 npm -v
 ```
 
