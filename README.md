@@ -15,7 +15,7 @@ node -v
 npm -v
 ```
 
-To install the application, you run the following command in your terminal:
+To install the application, run the following command in your terminal:
 ```
 git clone https://github.com/LucasRSteimetz/Task_Tracker_CLI.git
 ```
@@ -64,7 +64,7 @@ node test_tracker.js delete 3
 
 #### list
 
-You can list all the task by simply giving the list command or you can add three different status: todo, in-progress or done.
+You can list all the tasks by simply giving the list command or you can add three different status: todo, in-progress or done.
 
 ```
 node test_tracker.js list status
